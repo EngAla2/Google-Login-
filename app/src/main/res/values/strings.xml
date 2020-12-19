@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyLogInApp</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+    <string name="facebook_app_id">695947137980769</string>
+    <string name="fb_login_protocol_scheme">fb695947137980769</string>
+
+
+</resources>
