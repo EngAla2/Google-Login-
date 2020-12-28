@@ -8,6 +8,8 @@
 
     <string name="facebook_app_id">695947137980769</string>
     <string name="fb_login_protocol_scheme">fb695947137980769</string>
-
+    <string name="client_id">78pbzlrx4ji3x1</string>
+    <string name="client_secret">cJdnDqGuHYH8abUx</string>
+    <string name="redirect_url">https://myloginapp/alaa/naiem/callback</string>
 
 </resources>

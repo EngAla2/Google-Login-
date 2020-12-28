@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_centerInParent="true"
-    android:background="#5D1C98"
+    android:background="#1C9498"
     android:gravity="center"
     tools:context=".UserInfo">
 
